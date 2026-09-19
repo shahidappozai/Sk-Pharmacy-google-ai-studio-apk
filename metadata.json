@@ -1,0 +1,6 @@
+{
+  "name": "SK Pharmacy",
+  "description": "Professional Pharmacy Management & POS application with multi-batch FEFO inventory, barcode scanning, sales invoices, reports, and role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
